@@ -35,3 +35,10 @@ Usage Instructions
         6. Exit
      -> Enter your choice number
      -> Follow the instructions on screen
+
+class diagram:
+![class diagram](https://github.com/user-attachments/assets/cd2599cd-121d-48a3-ab4e-3b43441da6e8)
+
+sequence diagram:
+![sequence diagram](https://github.com/user-attachments/assets/3b776843-57f7-40fd-a4f3-315a95171feb)
+
