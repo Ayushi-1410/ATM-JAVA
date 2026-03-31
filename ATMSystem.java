@@ -139,8 +139,6 @@ public class ATMSystem
 
                             if (a.accNo == dAcc) {
                                 a.deposit(dAmt);
-                            }else {
-                                System.out.println("Invalid acc no.");
                             }
                         }
 
@@ -159,8 +157,6 @@ public class ATMSystem
 
                             if (a.accNo == wAcc) {
                                 a.withdraw(wAmt);
-                            }else{
-                                System.out.println("Invalid acc no.");
                             }
                         }
 
